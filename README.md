@@ -2,11 +2,13 @@
 # 🌍 Hello World in Every Language
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/HashSlap-Summer-of-Code/hello-world?style=social" alt="GitHub stars">
-  <img src="https://img.shields.io/github/forks/HashSlap-Summer-of-Code/hello-world?style=social" alt="GitHub forks">
-  <img src="https://img.shields.io/badge/HSSoC-2025-blueviolet?style=flat-square" alt="HSSoC 2025">
-  <img src="https://img.shields.io/github/license/HashSlap-Summer-of-Code/hello-world?style=flat-square" alt="License">
+  <img src="https://img.shields.io/github/license/HashSlap-Summer-of-Code/hello-world?color=brightgreen&label=LICENSE&style=flat-square" />
+  <img src="https://img.shields.io/github/forks/HashSlap-Summer-of-Code/hello-world?style=flat-square&color=gray" />
+  <img src="https://img.shields.io/github/stars/HashSlap-Summer-of-Code/hello-world?style=flat-square&color=blue" />
+  <img src="https://img.shields.io/github/issues/HashSlap-Summer-of-Code/hello-world?style=flat-square&color=green" />
+  <img src="https://img.shields.io/github/issues-pr/HashSlap-Summer-of-Code/hello-world?style=flat-square&color=gold" />
 </p>
+
 
 Welcome to the **Hello World Repository** – a simple and beginner-friendly project to make your **first open-source contribution**! 🚀
 
