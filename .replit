@@ -1,10 +1,14 @@
 modules = ["python-3.12"]
-run = "gcc helloWorld/C/hello.c -o hello && ./hello"
+run = ["node", "hello.js"]
+
+
 
 
 [nix]
 channel = "stable-24_05"
 
 [deployment]
-run = "gcc helloWorld/C/hello.c -o hello && ./hello"
+run = ["node", "hello.js"]
+
+
 
