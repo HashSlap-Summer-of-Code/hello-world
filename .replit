@@ -1,0 +1,16 @@
+modules = ["python-3.12"]
+run = "javac helloWorld/Java/HelloWorld.java && java -cp helloWorld/Java HelloWorld"
+
+
+
+
+
+[nix]
+channel = "stable-24_05"
+
+[deployment]
+run = "javac helloWorld/Java/HelloWorld.java && java -cp helloWorld/Java HelloWorld"
+
+
+
+
