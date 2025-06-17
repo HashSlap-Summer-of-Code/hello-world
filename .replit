@@ -1,5 +1,6 @@
 modules = ["python-3.12"]
-run = ["node", "hello.js"]
+run = "javac helloWorld/Java/HelloWorld.java && java -cp helloWorld/Java HelloWorld"
+
 
 
 
@@ -8,7 +9,8 @@ run = ["node", "hello.js"]
 channel = "stable-24_05"
 
 [deployment]
-run = ["node", "hello.js"]
+run = "javac helloWorld/Java/HelloWorld.java && java -cp helloWorld/Java HelloWorld"
+
 
 
 
