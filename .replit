@@ -1,0 +1,10 @@
+modules = ["python-3.12"]
+run = "gcc helloWorld/C/hello.c -o hello && ./hello"
+
+
+[nix]
+channel = "stable-24_05"
+
+[deployment]
+run = "gcc helloWorld/C/hello.c -o hello && ./hello"
+
